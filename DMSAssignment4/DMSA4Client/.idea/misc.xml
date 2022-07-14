@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="app/src/main/res/layout-w1240dp/activity_auth.xml" value="0.1569611780455154" />
+        <entry key="app/src/main/res/layout-w936dp/activity_auth.xml" value="0.183203125" />
+        <entry key="app/src/main/res/layout/activity_auth.xml" value="0.24427083333333333" />
+        <entry key="app/src/main/res/layout/activity_auth_log_in.xml" value="0.31580607096354163" />
+        <entry key="app/src/main/res/layout/activity_auth_main.xml" value="0.24427083333333333" />
+        <entry key="app/src/main/res/layout/activity_auth_sign_up_confirmation.xml" value="0.2628473917643229" />
+        <entry key="app/src/main/res/layout/activity_auth_signup.xml" value="0.37274068196614585" />
+        <entry key="app/src/main/res/layout/activity_donation_form.xml" value="0.3440658569335938" />
+        <entry key="app/src/main/res/layout/activity_donation_list.xml" value="0.13125" />
+        <entry key="app/src/main/res/layout/activity_donation_main.xml" value="0.24427083333333333" />
+        <entry key="app/src/main/res/layout/activity_form_confirmation.xml" value="0.39385681152343743" />
+        <entry key="app/src/main/res/layout/activity_individual_donation_list.xml" value="0.20625" />
+        <entry key="app/src/main/res/layout/activity_individual_maps.xml" value="0.1539855072463768" />
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.2581579899442369" />
+        <entry key="app/src/main/res/layout/activity_maps.xml" value="0.23541666666666666" />
+        <entry key="app/src/main/res/layout/individual_item_donation.xml" value="0.20625" />
+        <entry key="app/src/main/res/layout/item_donation.xml" value="0.3159062703450521" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
